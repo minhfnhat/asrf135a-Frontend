@@ -1,0 +1,74 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Indulge in a rich, aromatic experience that awakens your senses and fuels your day.",
+        "title": "Savor the Moment with KPlus Coffee"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Indulge in a rich, aromatic experience that awakens your senses and fuels your day.",
+        "title": "Savor the Moment with KPlus Coffee"
+      }
+    },
+    {
+      "id": "FooterFourColumnWithNewsletterBelow"
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Indulge in a rich, aromatic experience that awakens your senses and fuels your day.",
+        "title": "Savor the Moment with KPlus Coffee"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Indulge in a rich, aromatic experience that awakens your senses and fuels your day.",
+        "title": "Savor the Moment with KPlus Coffee"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Indulge in a rich, aromatic experience that awakens your senses and fuels your day.",
+        "title": "Savor the Moment with KPlus Coffee"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Indulge in a rich, aromatic experience that awakens your senses and fuels your day.",
+        "title": "Savor the Moment with KPlus Coffee"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Indulge in a rich, aromatic experience that awakens your senses and fuels your day.",
+        "title": "Savor the Moment with KPlus Coffee"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Indulge in a rich, aromatic experience that awakens your senses and fuels your day.",
+        "title": "Savor the Moment with KPlus Coffee"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Indulge in a rich, aromatic experience that awakens your senses and fuels your day.",
+        "title": "Savor the Moment with KPlus Coffee"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Savor the Moment with KPlus Coffee",
+  "subtitle": "Indulge in a rich, aromatic experience that awakens your senses and fuels your day."
+}
